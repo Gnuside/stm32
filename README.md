@@ -40,7 +40,7 @@ to compile, link, load, debug the stm32xxx boards.
 
 To do so, simply follow the steps guided by running the command :
 
-	./setup.rb
+	./bin/setup.rb
 
 Create
 ------
@@ -51,4 +51,4 @@ will duplicate (in fact reference them) the libraries code that you will need.
 
 To do so, simply follow the steps guided by running the command :
 
-	./create.rb
+	./bin/create.rb
