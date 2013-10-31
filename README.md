@@ -31,6 +31,7 @@ The first thing this project brings you is to setup an environment to allow you
 to compile, link, load, debug the stm32xxx boards.
 
 To do so, simply follow the steps guided by running the command :
+
 	./setup.rb
 
 Create
@@ -41,4 +42,5 @@ This is a helper that will generate for you the sources tree, the Makefiles and
 will duplicate (in fact reference them) the libraries code that you will need.
 
 To do so, simply follow the steps guided by running the command :
+
 	./create.rb
