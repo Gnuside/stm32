@@ -7,6 +7,14 @@ This project haims to propulse someone - with nothing installed - to be able to
 create a project to run an application on stm32 microprocessor based card.
 
 
+Dependencies
+------------
+
+Being Debian users, we currently depends on it... Particularly on the management
+of the packages installed on your system.
+
+The other dependency is ruby (being Ruby users ;-) ).
+
 Supported devices
 -----------------
 
