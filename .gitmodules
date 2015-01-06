@@ -1,0 +1,4 @@
+[submodule "remote-src/stlink"]
+	path = remote-src/stlink
+	url = git@github.com:texane/stlink.git
+	branch = master
